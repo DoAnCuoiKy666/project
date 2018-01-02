@@ -1,0 +1,12 @@
+{
+  "crypto": {
+    "secret": "sda46ufgh239d7fjhwi0sejhrgw4ersjdf8u7eweoi42hg0siojg"
+  },
+  "expressSession" : {
+    "secret": "bmoe5r8hb98fhsbso93ikdfgbs0u4sfg89dhsogsd09fy4pf9fdh"
+  },
+  "mailgun": {
+    "apiKey": "key-693175d9a0c65ea700eb33d03a2fcf21",
+    "domain": "sandboxfaedc5178694476cb2c711fbe2fa4256.mailgun.org"
+  }
+}
